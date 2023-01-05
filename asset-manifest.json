@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/webflix/static/js/main.d542db2e.js",
+    "index.html": "/webflix/index.html",
+    "main.d542db2e.js.map": "/webflix/static/js/main.d542db2e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d542db2e.js"
+  ]
+}
